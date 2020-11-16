@@ -1,5 +1,6 @@
 #include <cstdlib>
 #include <iostream>
+#include <random>
 #include <vector>
 
 bool homogenousArr(std::vector<int> arr);
